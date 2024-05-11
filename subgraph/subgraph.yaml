@@ -7,7 +7,7 @@ dataSources:
     network: zora-testnet
     source:
       abi: JSONExtensionRegistry
-      address: "0xABCDEFEd93200601e1dFe26D6644758801D732E8"
+      address: "0x9e27d816ba115bf9d2b5d810ddedb950463a5fe3"
       startBlock: 0
     mapping:
       kind: ethereum/events
